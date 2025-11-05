@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\src\main\res"><file name="ic_eye_color" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\color\ic_eye_color.xml" qualifiers="" type="color"/><file name="background" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\background.png" qualifiers="" type="drawable"/><file name="background_2" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\background_2.png" qualifiers="" type="drawable"/><file name="checkobx_color_selector" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\checkobx_color_selector.xml" qualifiers="" type="drawable"/><file name="ic_arrow_left" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\ic_arrow_left.xml" qualifiers="" type="drawable"/><file name="ic_check" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\ic_check.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="intro" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\intro.png" qualifiers="" type="drawable"/><file name="logo" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\drawable\logo.png" qualifiers="" type="drawable"/><file name="archivo_regular" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\font\archivo_regular.ttf" qualifiers="" type="font"/><file name="archivo_semi_bold" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\font\archivo_semi_bold.ttf" qualifiers="" type="font"/><file name="poppins_bold" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\font\poppins_bold.ttf" qualifiers="" type="font"/><file name="poppins_regular" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\font\poppins_regular.ttf" qualifiers="" type="font"/><file name="poppins_semi_bold" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\font\poppins_semi_bold.ttf" qualifiers="" type="font"/><file name="activity_forgot" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\layout\activity_forgot.xml" qualifiers="" type="layout"/><file name="activity_login" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_register_step_one" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\layout\activity_register_step_one.xml" qualifiers="" type="layout"/><file name="activity_register_step_two" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\layout\activity_register_step_two.xml" qualifiers="" type="layout"/><file name="activity_splash_screen" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\layout\activity_splash_screen.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values\colors.xml" qualifiers=""><color name="another_purple">#9871F5</color><color name="purple">#8257E5</color><color name="little_purple">#774DD6</color><color name="purple_dark">#9871F5</color><color name="green">#04D361</color><color name="another_green">#24EF7F</color><color name="delete">#E33D3D</color><color name="lines_in_white">#E6E6F0</color><color name="hover_white">#EBEBF5</color><color name="background_white">#F0F0F7</color><color name="shape_01_white">#FFFFFF</color><color name="shape_02_white">#FAFAFC</color><color name="shape_disable">#DCDCE5</color><color name="text_title">#32264D</color><color name="text_base">#6A6180</color><color name="text_complement">#9C98A6</color><color name="text_input">#C1BCCC</color><color name="text_in_purple_title">#FFFFFF</color><color name="text_in_purple_base">#D4C2FF</color><color name="text_in_purple_complement">#A380F6</color></file><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Proffy</string><string name="text_background_image_splashscreen">Imagem de fundo onde temos os simbolos de somar, multiplicar, pontos, circulos e também uma lupa</string><string name="image_intro_splashscreen">Proffy sua plataforma de estudos online.</string></file><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values\styles.xml" qualifiers=""><style name="CustomFilledTextFieldTop" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+        <item name="boxBackgroundColor">@color/shape_02_white</item>
+
+        
+        <item name="boxStrokeColor">@color/purple</item>
+        <item name="boxStrokeWidth">0dp</item>
+
+        
+        <item name="shapeAppearance">@style/CustomFilledShape</item>
+
+        
+        <item name="fontFamily">@font/poppins_regular</item>
+
+        
+        <item name="android:textColorHint">@color/text_complement</item>
+    </style><style name="CustomFilledShape" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeTopRight">8dp</item>
+
+        
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style><style name="CustomFilledTextFieldBottom" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+        <item name="boxBackgroundColor">@color/shape_02_white</item>
+
+        
+        <item name="boxStrokeColor">@color/purple</item>
+        <item name="boxStrokeWidth">0dp</item>
+
+        
+        <item name="shapeAppearance">@style/CustomFilledShapeBottom</item>
+
+        
+        <item name="fontFamily">@font/poppins_regular</item>
+
+        
+        <item name="android:textColorHint">@color/text_complement</item>
+
+        
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+    </style><style name="CustomFilledShapeBottom" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+
+        
+        <item name="cornerSizeBottomLeft">8dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+    </style></file><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Proffy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.Proffy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\values-v31\themes.xml" qualifiers="v31"><style name="Theme.Proffy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/purple</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file name="backup_rules" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="D:\Arquivos\Desktop\proffy-app\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Arquivos\Desktop\proffy-app\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

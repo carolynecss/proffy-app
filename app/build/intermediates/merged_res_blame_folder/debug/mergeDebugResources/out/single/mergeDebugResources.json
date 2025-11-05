@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/font_poppins_bold.ttf.flat",
+        "source": "com.rafael.proffy.app-main-38:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_checkobx_color_selector.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/checkobx_color_selector.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/font_poppins_regular.ttf.flat",
+        "source": "com.rafael.proffy.app-main-38:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_background.png.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/background.png"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_ic_check.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_logo.png.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/logo.png"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/font_archivo_semi_bold.ttf.flat",
+        "source": "com.rafael.proffy.app-main-38:/font/archivo_semi_bold.ttf"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/layout_activity_register_step_two.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_register_step_two.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_background_2.png.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/background_2.png"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/font_poppins_semi_bold.ttf.flat",
+        "source": "com.rafael.proffy.app-main-38:/font/poppins_semi_bold.ttf"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/layout_activity_forgot.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_forgot.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_intro.png.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/intro.png"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/font_archivo_regular.ttf.flat",
+        "source": "com.rafael.proffy.app-main-38:/font/archivo_regular.ttf"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/layout_activity_register_step_one.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_register_step_one.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/layout_activity_splash_screen.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.rafael.proffy.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rafael.proffy.app-debug-36:/color_ic_eye_color.xml.flat",
+        "source": "com.rafael.proffy.app-main-38:/color/ic_eye_color.xml"
+    }
+]

@@ -105,4 +105,4 @@ class RegisterStepTwoActivity : AppCompatActivity() {
         // Finalizar todas as activities de cadastro e voltar para login
         finishAffinity()
     }
-}4
+}

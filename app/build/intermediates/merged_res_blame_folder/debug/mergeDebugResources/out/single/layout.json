@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.rafael.proffy.app-mergeDebugResources-35:/layout/activity_register_step_two.xml",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_register_step_two.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-mergeDebugResources-35:/layout/activity_splash_screen.xml",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-mergeDebugResources-35:/layout/activity_register_step_one.xml",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_register_step_one.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-mergeDebugResources-35:/layout/activity_forgot.xml",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_forgot.xml"
+    },
+    {
+        "merged": "com.rafael.proffy.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.rafael.proffy.app-main-38:/layout/activity_login.xml"
+    }
+]

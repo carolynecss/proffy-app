@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="another_green">#24EF7F</color>
+    <color name="another_purple">#9871F5</color>
+    <color name="background_white">#F0F0F7</color>
+    <color name="delete">#E33D3D</color>
+    <color name="green">#04D361</color>
+    <color name="hover_white">#EBEBF5</color>
+    <color name="lines_in_white">#E6E6F0</color>
+    <color name="little_purple">#774DD6</color>
+    <color name="purple">#8257E5</color>
+    <color name="purple_dark">#9871F5</color>
+    <color name="shape_01_white">#FFFFFF</color>
+    <color name="shape_02_white">#FAFAFC</color>
+    <color name="shape_disable">#DCDCE5</color>
+    <color name="text_base">#6A6180</color>
+    <color name="text_complement">#9C98A6</color>
+    <color name="text_in_purple_base">#D4C2FF</color>
+    <color name="text_in_purple_complement">#A380F6</color>
+    <color name="text_in_purple_title">#FFFFFF</color>
+    <color name="text_input">#C1BCCC</color>
+    <color name="text_title">#32264D</color>
+    <string name="app_name">Proffy</string>
+    <string name="image_intro_splashscreen">Proffy sua plataforma de estudos online.</string>
+    <string name="text_background_image_splashscreen">Imagem de fundo onde temos os simbolos de somar, multiplicar, pontos, circulos e também uma lupa</string>
+    <style name="CustomFilledShape" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeTopRight">8dp</item>
+
+        
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+    <style name="CustomFilledShapeBottom" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+
+        
+        <item name="cornerSizeBottomLeft">8dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+    </style>
+    <style name="CustomFilledTextFieldBottom" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+        <item name="boxBackgroundColor">@color/shape_02_white</item>
+
+        
+        <item name="boxStrokeColor">@color/purple</item>
+        <item name="boxStrokeWidth">0dp</item>
+
+        
+        <item name="shapeAppearance">@style/CustomFilledShapeBottom</item>
+
+        
+        <item name="fontFamily">@font/poppins_regular</item>
+
+        
+        <item name="android:textColorHint">@color/text_complement</item>
+
+        
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+    </style>
+    <style name="CustomFilledTextFieldTop" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+        <item name="boxBackgroundColor">@color/shape_02_white</item>
+
+        
+        <item name="boxStrokeColor">@color/purple</item>
+        <item name="boxStrokeWidth">0dp</item>
+
+        
+        <item name="shapeAppearance">@style/CustomFilledShape</item>
+
+        
+        <item name="fontFamily">@font/poppins_regular</item>
+
+        
+        <item name="android:textColorHint">@color/text_complement</item>
+    </style>
+    <style name="Theme.Proffy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
